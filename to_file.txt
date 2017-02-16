@@ -1,0 +1,1 @@
+12345 in the from_file.txt that will be copied to to_file.txt
